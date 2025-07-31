@@ -1,0 +1,588 @@
+Starting scan from: index.html
+Target: 50 leaf nodes
+------------------------------------------------------------
+Crawling: index.html
+Crawling: index.html
+Pages crawled: 1, Queue: 135, Leaves: 0
+Crawling: about-reveries-and-recipes/index.html
+Crawling: about-reveries-and-recipes/index.html
+Pages crawled: 2, Queue: 148, Leaves: 0
+Crawling: index-b/index.html
+Crawling: index-b/index.html
+Pages crawled: 3, Queue: 172, Leaves: 0
+Crawling: prep-instructions/index.html
+Crawling: prep-instructions/index.html
+Pages crawled: 4, Queue: 232, Leaves: 0
+Crawling: essays/index.html
+Crawling: essays/index.html
+Pages crawled: 5, Queue: 287, Leaves: 0
+Crawling: galllery/index.html
+Crawling: galllery/index.html
+Pages crawled: 6, Queue: 297, Leaves: 0
+Crawling: galllery/gallery_i/index.html
+Crawling: galllery/gallery_i/index.html
+Pages crawled: 7, Queue: 368, Leaves: 0
+Crawling: galllery/gallery-ii/index.html
+Crawling: galllery/gallery-ii/index.html
+Pages crawled: 8, Queue: 545, Leaves: 0
+Crawling: galllery/gallery-iii-2/index.html
+Crawling: galllery/gallery-iii-2/index.html
+Pages crawled: 9, Queue: 596, Leaves: 0
+Crawling: galllery/gallery-iv/index.html
+Crawling: galllery/gallery-iv/index.html
+Pages crawled: 10, Queue: 639, Leaves: 0
+Crawling: published/index.html
+Crawling: published/index.html
+Pages crawled: 11, Queue: 645, Leaves: 0
+Crawling: favorite-sites/index.html
+Crawling: favorite-sites/index.html
+Pages crawled: 12, Queue: 645, Leaves: 0
+Crawling: contact/index.html
+Crawling: contact/index.html
+Pages crawled: 13, Queue: 645, Leaves: 0
+Crawling: 2024/04/pasta-alla-zozzona/index.html
+Crawling: 2024/04/pasta-alla-zozzona/index.html
+Pages crawled: 14, Queue: 654, Leaves: 0
+Crawling: category/pasta/index.html
+Crawling: category/pasta/index.html
+Pages crawled: 15, Queue: 766, Leaves: 0
+Crawling: author/robiulo/index.html
+Crawling: author/robiulo/index.html
+Pages crawled: 16, Queue: 862, Leaves: 0
+Crawling: wp-content/uploads/2023/11/x-20231101150514.jpg
+Crawling: wp-content/uploads/2023/11/x-20231101150514.jpg
+LEAF NODE #1: wp-content/uploads/2023/11/x-20231101150514.jpg
+Pages crawled: 17, Queue: 861, Leaves: 1
+Crawling: wp-content/uploads/2023/11/x-20231101165901-scaled.jpg
+Crawling: wp-content/uploads/2023/11/x-20231101165901-scaled.jpg
+LEAF NODE #2: wp-content/uploads/2023/11/x-20231101165901-scaled.jpg
+Pages crawled: 18, Queue: 860, Leaves: 2
+Crawling: prep-instructions/pasta/index.html
+Crawling: prep-instructions/pasta/index.html
+Pages crawled: 19, Queue: 860, Leaves: 2
+Crawling: wp-content/uploads/2023/11/Untitled.jpg
+Crawling: wp-content/uploads/2023/11/Untitled.jpg
+LEAF NODE #3: wp-content/uploads/2023/11/Untitled.jpg
+Pages crawled: 20, Queue: 859, Leaves: 3
+Crawling: wp-content/uploads/2023/11/x-20231101172224-scaled.jpg
+Crawling: wp-content/uploads/2023/11/x-20231101172224-scaled.jpg
+LEAF NODE #4: wp-content/uploads/2023/11/x-20231101172224-scaled.jpg
+Pages crawled: 21, Queue: 858, Leaves: 4
+Crawling: tag/pasta/index.html
+Crawling: tag/pasta/index.html
+Pages crawled: 22, Queue: 948, Leaves: 4
+Crawling: tag/sausage/index.html
+Crawling: tag/sausage/index.html
+Pages crawled: 23, Queue: 1045, Leaves: 4
+Crawling: 2024/04/doms-steak-and-onions/index.html
+Crawling: 2024/04/doms-steak-and-onions/index.html
+Pages crawled: 24, Queue: 1052, Leaves: 4
+Crawling: category/meat/index.html
+Crawling: category/meat/index.html
+Pages crawled: 25, Queue: 1140, Leaves: 4
+Crawling: wp-content/uploads/2023/04/Howie-at-Doms.jpg
+Crawling: wp-content/uploads/2023/04/Howie-at-Doms.jpg
+LEAF NODE #5: wp-content/uploads/2023/04/Howie-at-Doms.jpg
+Pages crawled: 26, Queue: 1136, Leaves: 5
+Crawling: wp-content/uploads/2023/04/thumbnail.jpg
+Crawling: wp-content/uploads/2023/04/thumbnail.jpg
+LEAF NODE #6: wp-content/uploads/2023/04/thumbnail.jpg
+Pages crawled: 27, Queue: 1135, Leaves: 6
+Crawling: wp-content/uploads/2024/04/Untitl876ed-1.jpg
+Crawling: wp-content/uploads/2024/04/Untitl876ed-1.jpg
+LEAF NODE #7: wp-content/uploads/2024/04/Untitl876ed-1.jpg
+Pages crawled: 28, Queue: 1134, Leaves: 7
+Crawling: wp-content/uploads/2023/04/fghj.jpg
+Crawling: wp-content/uploads/2023/04/fghj.jpg
+LEAF NODE #8: wp-content/uploads/2023/04/fghj.jpg
+Pages crawled: 29, Queue: 1133, Leaves: 8
+Crawling: tag/steak/index.html
+Crawling: tag/steak/index.html
+Pages crawled: 30, Queue: 1186, Leaves: 8
+Crawling: tag/steak-and-onions/index.html
+Crawling: tag/steak-and-onions/index.html
+LEAF NODE #9: tag/steak-and-onions/index.html
+Pages crawled: 31, Queue: 1185, Leaves: 9
+Crawling: 2023/10/smash-burger/index.html
+Crawling: 2023/10/smash-burger/index.html
+Pages crawled: 32, Queue: 1191, Leaves: 9
+Crawling: wp-content/uploads/2023/10/x-thumbnail-5.jpg
+Crawling: wp-content/uploads/2023/10/x-thumbnail-5.jpg
+LEAF NODE #10: wp-content/uploads/2023/10/x-thumbnail-5.jpg
+Pages crawled: 33, Queue: 1186, Leaves: 10
+Crawling: wp-content/uploads/2023/10/x-20230802182815-scaled.jpg
+Crawling: wp-content/uploads/2023/10/x-20230802182815-scaled.jpg
+LEAF NODE #11: wp-content/uploads/2023/10/x-20230802182815-scaled.jpg
+Pages crawled: 34, Queue: 1185, Leaves: 11
+Crawling: wp-content/uploads/2023/10/x-Untitled.jpg
+Crawling: wp-content/uploads/2023/10/x-Untitled.jpg
+LEAF NODE #12: wp-content/uploads/2023/10/x-Untitled.jpg
+Pages crawled: 35, Queue: 1184, Leaves: 12
+Crawling: wp-content/uploads/2023/10/aUntitled.jpg
+Crawling: wp-content/uploads/2023/10/aUntitled.jpg
+LEAF NODE #13: wp-content/uploads/2023/10/aUntitled.jpg
+Pages crawled: 36, Queue: 1183, Leaves: 13
+Crawling: tag/beef/index.html
+Crawling: tag/beef/index.html
+Pages crawled: 37, Queue: 1198, Leaves: 13
+Crawling: tag/ground-beef/index.html
+Crawling: tag/ground-beef/index.html
+LEAF NODE #14: tag/ground-beef/index.html
+Pages crawled: 38, Queue: 1197, Leaves: 14
+Crawling: 2023/10/roasted-peppers-with-breadcrumbs/index.html
+Crawling: 2023/10/roasted-peppers-with-breadcrumbs/index.html
+Pages crawled: 39, Queue: 1206, Leaves: 14
+Crawling: category/sides/index.html
+Crawling: category/sides/index.html
+Pages crawled: 40, Queue: 1306, Leaves: 14
+Crawling: category/vegetarian/index.html
+Crawling: category/vegetarian/index.html
+Pages crawled: 41, Queue: 1402, Leaves: 14
+Crawling: wp-content/uploads/2023/10/20230912172620.jpg
+Crawling: wp-content/uploads/2023/10/20230912172620.jpg
+LEAF NODE #15: wp-content/uploads/2023/10/20230912172620.jpg
+Pages crawled: 42, Queue: 1398, Leaves: 15
+Crawling: prep-instructions/roasting-peppers/index.html
+Crawling: prep-instructions/roasting-peppers/index.html
+Pages crawled: 43, Queue: 1400, Leaves: 15
+Crawling: wp-content/uploads/2023/10/20230912173730-scaled.jpg
+Crawling: wp-content/uploads/2023/10/20230912173730-scaled.jpg
+LEAF NODE #16: wp-content/uploads/2023/10/20230912173730-scaled.jpg
+Pages crawled: 44, Queue: 1399, Leaves: 16
+Crawling: wp-content/uploads/2023/10/20230912175426-scaled.jpg
+Crawling: wp-content/uploads/2023/10/20230912175426-scaled.jpg
+LEAF NODE #17: wp-content/uploads/2023/10/20230912175426-scaled.jpg
+Pages crawled: 45, Queue: 1398, Leaves: 17
+Crawling: wp-content/uploads/2023/10/20230912182531-scaled.jpg
+Crawling: wp-content/uploads/2023/10/20230912182531-scaled.jpg
+LEAF NODE #18: wp-content/uploads/2023/10/20230912182531-scaled.jpg
+Pages crawled: 46, Queue: 1397, Leaves: 18
+Crawling: tag/breadcrumbs/index.html
+Crawling: tag/breadcrumbs/index.html
+Pages crawled: 47, Queue: 1409, Leaves: 18
+Crawling: tag/peppers/index.html
+Crawling: tag/peppers/index.html
+Pages crawled: 48, Queue: 1448, Leaves: 18
+Crawling: 2023/09/grilled-vegetables/index.html
+Crawling: 2023/09/grilled-vegetables/index.html
+Pages crawled: 49, Queue: 1454, Leaves: 18
+Crawling: wp-content/uploads/2023/09/x-20230820130003-scaled.jpg
+Crawling: wp-content/uploads/2023/09/x-20230820130003-scaled.jpg
+LEAF NODE #19: wp-content/uploads/2023/09/x-20230820130003-scaled.jpg
+Pages crawled: 50, Queue: 1448, Leaves: 19
+Crawling: prep-instructions/eggplant/index.html
+Crawling: prep-instructions/eggplant/index.html
+Pages crawled: 51, Queue: 1449, Leaves: 19
+Crawling: wp-content/uploads/2023/09/x--scaled.jpg
+Crawling: wp-content/uploads/2023/09/x--scaled.jpg
+LEAF NODE #20: wp-content/uploads/2023/09/x--scaled.jpg
+Pages crawled: 52, Queue: 1448, Leaves: 20
+Crawling: wp-content/uploads/2023/09/x-20230821184402-scaled.jpg
+Crawling: wp-content/uploads/2023/09/x-20230821184402-scaled.jpg
+LEAF NODE #21: wp-content/uploads/2023/09/x-20230821184402-scaled.jpg
+Pages crawled: 53, Queue: 1447, Leaves: 21
+Crawling: wp-content/uploads/2023/09/x-20230821190307-scaled.jpg
+Crawling: wp-content/uploads/2023/09/x-20230821190307-scaled.jpg
+LEAF NODE #22: wp-content/uploads/2023/09/x-20230821190307-scaled.jpg
+Pages crawled: 54, Queue: 1446, Leaves: 22
+Crawling: tag/vegetables/index.html
+Crawling: tag/vegetables/index.html
+LEAF NODE #23: tag/vegetables/index.html
+Pages crawled: 55, Queue: 1444, Leaves: 23
+Crawling: 2023/07/mojito/index.html
+Crawling: 2023/07/mojito/index.html
+Pages crawled: 56, Queue: 1449, Leaves: 23
+Crawling: category/drinks/index.html
+Crawling: category/drinks/index.html
+Pages crawled: 57, Queue: 1561, Leaves: 23
+Crawling: wp-content/uploads/2023/07/thumbnail-1.jpg
+Crawling: wp-content/uploads/2023/07/thumbnail-1.jpg
+LEAF NODE #24: wp-content/uploads/2023/07/thumbnail-1.jpg
+Pages crawled: 58, Queue: 1557, Leaves: 24
+Crawling: wp-content/uploads/2023/07/thumbnail-1-1.jpg
+Crawling: wp-content/uploads/2023/07/thumbnail-1-1.jpg
+LEAF NODE #25: wp-content/uploads/2023/07/thumbnail-1-1.jpg
+Pages crawled: 59, Queue: 1556, Leaves: 25
+Crawling: tag/mint/index.html
+Crawling: tag/mint/index.html
+Pages crawled: 60, Queue: 1568, Leaves: 25
+Crawling: tag/rum/index.html
+Crawling: tag/rum/index.html
+Pages crawled: 61, Queue: 1596, Leaves: 25
+Crawling: 2023/07/barbecue-chicken-wings/index.html
+Crawling: 2023/07/barbecue-chicken-wings/index.html
+Pages crawled: 62, Queue: 1603, Leaves: 25
+Crawling: category/poultry/index.html
+Crawling: category/poultry/index.html
+Pages crawled: 63, Queue: 1700, Leaves: 25
+Crawling: wp-content/uploads/2023/07/x-20230612142530-scaled.jpg
+Crawling: wp-content/uploads/2023/07/x-20230612142530-scaled.jpg
+LEAF NODE #26: wp-content/uploads/2023/07/x-20230612142530-scaled.jpg
+Pages crawled: 64, Queue: 1696, Leaves: 26
+Crawling: wp-content/uploads/2023/07/x--scaled.jpg
+Crawling: wp-content/uploads/2023/07/x--scaled.jpg
+LEAF NODE #27: wp-content/uploads/2023/07/x--scaled.jpg
+Pages crawled: 65, Queue: 1695, Leaves: 27
+Crawling: wp-content/uploads/2023/07/x-20230612184442-scaled.jpg
+Crawling: wp-content/uploads/2023/07/x-20230612184442-scaled.jpg
+LEAF NODE #28: wp-content/uploads/2023/07/x-20230612184442-scaled.jpg
+Pages crawled: 66, Queue: 1694, Leaves: 28
+Crawling: wp-content/uploads/2023/07/x-20230612191931-scaled.jpg
+Crawling: wp-content/uploads/2023/07/x-20230612191931-scaled.jpg
+LEAF NODE #29: wp-content/uploads/2023/07/x-20230612191931-scaled.jpg
+Pages crawled: 67, Queue: 1693, Leaves: 29
+Crawling: tag/chicken/index.html
+Crawling: tag/chicken/index.html
+Pages crawled: 68, Queue: 1781, Leaves: 29
+Crawling: tag/poultry/index.html
+Crawling: tag/poultry/index.html
+Pages crawled: 69, Queue: 1823, Leaves: 29
+Crawling: 2023/06/pepper-and-egg-sandwich/index.html
+Crawling: 2023/06/pepper-and-egg-sandwich/index.html
+Pages crawled: 70, Queue: 1829, Leaves: 29
+Crawling: category/lunchsnacks/index.html
+Crawling: category/lunchsnacks/index.html
+Pages crawled: 71, Queue: 1924, Leaves: 29
+Crawling: wp-content/uploads/2023/06/20230525140934-scaled.jpg
+Crawling: wp-content/uploads/2023/06/20230525140934-scaled.jpg
+LEAF NODE #30: wp-content/uploads/2023/06/20230525140934-scaled.jpg
+Pages crawled: 72, Queue: 1920, Leaves: 30
+Crawling: wp-content/uploads/2023/06/20230526132747-scaled.jpg
+Crawling: wp-content/uploads/2023/06/20230526132747-scaled.jpg
+LEAF NODE #31: wp-content/uploads/2023/06/20230526132747-scaled.jpg
+Pages crawled: 73, Queue: 1919, Leaves: 31
+Crawling: wp-content/uploads/2023/06/a20230525134407-scaled.jpg
+Crawling: wp-content/uploads/2023/06/a20230525134407-scaled.jpg
+LEAF NODE #32: wp-content/uploads/2023/06/a20230525134407-scaled.jpg
+Pages crawled: 74, Queue: 1918, Leaves: 32
+Crawling: tag/bell-pepper/index.html
+Crawling: tag/bell-pepper/index.html
+Pages crawled: 75, Queue: 1917, Leaves: 32
+Crawling: tag/eggs/index.html
+Crawling: tag/eggs/index.html
+Pages crawled: 76, Queue: 1984, Leaves: 32
+Crawling: 2023/03/sicilian-orange-salad/index.html
+Crawling: 2023/03/sicilian-orange-salad/index.html
+Pages crawled: 77, Queue: 1989, Leaves: 32
+Crawling: wp-content/uploads/2023/03/20230324131306.jpg
+Crawling: wp-content/uploads/2023/03/20230324131306.jpg
+LEAF NODE #33: wp-content/uploads/2023/03/20230324131306.jpg
+Pages crawled: 78, Queue: 1984, Leaves: 33
+Crawling: wp-content/uploads/2023/03/x20230325174725-scaled.jpg
+Crawling: wp-content/uploads/2023/03/x20230325174725-scaled.jpg
+LEAF NODE #34: wp-content/uploads/2023/03/x20230325174725-scaled.jpg
+Pages crawled: 79, Queue: 1983, Leaves: 34
+Crawling: wp-content/uploads/2023/03/xnnnnnn-scaled.jpg
+Crawling: wp-content/uploads/2023/03/xnnnnnn-scaled.jpg
+LEAF NODE #35: wp-content/uploads/2023/03/xnnnnnn-scaled.jpg
+Pages crawled: 80, Queue: 1982, Leaves: 35
+Crawling: tag/oranges/index.html
+Crawling: tag/oranges/index.html
+Pages crawled: 81, Queue: 1999, Leaves: 35
+Crawling: tag/salad/index.html
+Crawling: tag/salad/index.html
+Pages crawled: 82, Queue: 2031, Leaves: 35
+Crawling: 2023/03/turkish-roast-chicken/index.html
+Crawling: 2023/03/turkish-roast-chicken/index.html
+Pages crawled: 83, Queue: 2037, Leaves: 35
+Crawling: wp-content/uploads/2023/03/x20230319115527.jpg
+Crawling: wp-content/uploads/2023/03/x20230319115527.jpg
+LEAF NODE #36: wp-content/uploads/2023/03/x20230319115527.jpg
+Pages crawled: 84, Queue: 2032, Leaves: 36
+Crawling: wp-content/uploads/2023/03/Untitled.jpg
+Crawling: wp-content/uploads/2023/03/Untitled.jpg
+LEAF NODE #37: wp-content/uploads/2023/03/Untitled.jpg
+Pages crawled: 85, Queue: 2031, Leaves: 37
+Crawling: wp-content/uploads/2023/03/x20230319181308-scaled.jpg
+Crawling: wp-content/uploads/2023/03/x20230319181308-scaled.jpg
+LEAF NODE #38: wp-content/uploads/2023/03/x20230319181308-scaled.jpg
+Pages crawled: 86, Queue: 2030, Leaves: 38
+Crawling: wp-content/uploads/2023/03/x20230319192918-scaled.jpg
+Crawling: wp-content/uploads/2023/03/x20230319192918-scaled.jpg
+LEAF NODE #39: wp-content/uploads/2023/03/x20230319192918-scaled.jpg
+Pages crawled: 87, Queue: 2029, Leaves: 39
+Crawling: tag/chichen/index.html
+Crawling: tag/chichen/index.html
+Pages crawled: 88, Queue: 2028, Leaves: 39
+Crawling: tag/roast-chicken/index.html
+Crawling: tag/roast-chicken/index.html
+Pages crawled: 89, Queue: 2034, Leaves: 39
+Crawling: page/2/index.html
+Crawling: page/2/index.html
+Pages crawled: 90, Queue: 2126, Leaves: 39
+Crawling: page/57/index.html
+Crawling: page/57/index.html
+Pages crawled: 91, Queue: 2204, Leaves: 39
+Crawling: wp-content/uploads/2014/08/Steak-e1412188333311.jpg
+Crawling: wp-content/uploads/2014/08/Steak-e1412188333311.jpg
+LEAF NODE #40: wp-content/uploads/2014/08/Steak-e1412188333311.jpg
+Pages crawled: 92, Queue: 2191, Leaves: 40
+Crawling: 2017/06/an-italian-dinner/index.html
+Crawling: 2017/06/an-italian-dinner/index.html
+Pages crawled: 93, Queue: 2211, Leaves: 40
+Crawling: wp-content/uploads/2014/10/2014-10-1611.06.16.jpg
+Crawling: wp-content/uploads/2014/10/2014-10-1611.06.16.jpg
+LEAF NODE #41: wp-content/uploads/2014/10/2014-10-1611.06.16.jpg
+Pages crawled: 94, Queue: 2210, Leaves: 41
+Crawling: wp-content/uploads/2017/08/Doc3_Page_2aa.jpg
+Crawling: wp-content/uploads/2017/08/Doc3_Page_2aa.jpg
+LEAF NODE #42: wp-content/uploads/2017/08/Doc3_Page_2aa.jpg
+Pages crawled: 95, Queue: 2199, Leaves: 42
+Crawling: index-b/food/index.html
+Crawling: index-b/food/index.html
+Pages crawled: 96, Queue: 2534, Leaves: 42
+Crawling: index-b/drinks/index.html
+Crawling: index-b/drinks/index.html
+Pages crawled: 97, Queue: 2583, Leaves: 42
+Crawling: index-b/restaurants/index.html
+Crawling: index-b/restaurants/index.html
+Pages crawled: 98, Queue: 2617, Leaves: 42
+Crawling: index-b/travel/index.html
+Crawling: index-b/travel/index.html
+Pages crawled: 99, Queue: 2632, Leaves: 42
+Crawling: index-b/holidays/index.html
+Crawling: index-b/holidays/index.html
+Pages crawled: 100, Queue: 2648, Leaves: 42
+Crawling: index-b/miscellaneous/index.html
+Crawling: index-b/miscellaneous/index.html
+Pages crawled: 101, Queue: 2724, Leaves: 42
+Crawling: prep-instructions/baccala/index.html
+Crawling: prep-instructions/baccala/index.html
+Pages crawled: 102, Queue: 2714, Leaves: 42
+Crawling: prep-instructions/breadcrumb-polpettes/index.html
+Crawling: prep-instructions/breadcrumb-polpettes/index.html
+Pages crawled: 103, Queue: 2714, Leaves: 42
+Crawling: misc-instructions/butterfly/index.html
+Crawling: misc-instructions/butterfly/index.html
+Pages crawled: 104, Queue: 2714, Leaves: 42
+Crawling: prep-instructions/butterfly/index.html
+Crawling: prep-instructions/butterfly/index.html
+Pages crawled: 105, Queue: 2715, Leaves: 42
+Crawling: prep-instructions/cajun-spice-mix/index.html
+Crawling: prep-instructions/cajun-spice-mix/index.html
+Pages crawled: 106, Queue: 2715, Leaves: 42
+Crawling: prep-instructions/chicken-cutlets/index.html
+Crawling: prep-instructions/chicken-cutlets/index.html
+Pages crawled: 107, Queue: 2714, Leaves: 42
+Crawling: prep-instructions/chiffonade/index.html
+Crawling: prep-instructions/chiffonade/index.html
+Pages crawled: 108, Queue: 2713, Leaves: 42
+Crawling: prep-instructions/cooking-with-garlic-and-oil/index.html
+Crawling: prep-instructions/cooking-with-garlic-and-oil/index.html
+Pages crawled: 109, Queue: 2712, Leaves: 42
+Crawling: wp-content/uploads/2022/06/y-20220622191243-scaled.jpg
+Crawling: wp-content/uploads/2022/06/y-20220622191243-scaled.jpg
+LEAF NODE #43: wp-content/uploads/2022/06/y-20220622191243-scaled.jpg
+Pages crawled: 110, Queue: 2711, Leaves: 43
+Crawling: prep-instructions/creamed-butter-and-sugar/index.html
+Crawling: prep-instructions/creamed-butter-and-sugar/index.html
+Pages crawled: 111, Queue: 2711, Leaves: 43
+Crawling: wp-content/uploads/2020/09/xxxtitled.png
+Crawling: wp-content/uploads/2020/09/xxxtitled.png
+LEAF NODE #44: wp-content/uploads/2020/09/xxxtitled.png
+Pages crawled: 112, Queue: 2710, Leaves: 44
+Crawling: cutting-a-bell-pepper/index.html
+Crawling: cutting-a-bell-pepper/index.html
+Pages crawled: 113, Queue: 2710, Leaves: 44
+Crawling: prep-instructions/deglazing/index.html
+Crawling: prep-instructions/deglazing/index.html
+Pages crawled: 114, Queue: 2709, Leaves: 44
+Crawling: prep-instructions/dredge-in-flour/index.html
+Crawling: prep-instructions/dredge-in-flour/index.html
+LEAF NODE #45: prep-instructions/dredge-in-flour/index.html
+Pages crawled: 115, Queue: 2707, Leaves: 45
+Crawling: misc-instructions/eggplant/index.html
+Crawling: misc-instructions/eggplant/index.html
+Pages crawled: 116, Queue: 2707, Leaves: 45
+Crawling: prep-instructions/grated-cheese/index.html
+Crawling: prep-instructions/grated-cheese/index.html
+Pages crawled: 117, Queue: 2706, Leaves: 45
+Crawling: wp-content/uploads/2021/10/grated-cheese_edited-1-286x300-1.jpg
+Crawling: wp-content/uploads/2021/10/grated-cheese_edited-1-286x300-1.jpg
+LEAF NODE #46: wp-content/uploads/2021/10/grated-cheese_edited-1-286x300-1.jpg
+Pages crawled: 118, Queue: 2705, Leaves: 46
+Crawling: misc-instructions/greens/index.html
+Crawling: misc-instructions/greens/index.html
+Pages crawled: 119, Queue: 2705, Leaves: 46
+Crawling: prep-instructions/greens/index.html
+Crawling: prep-instructions/greens/index.html
+Pages crawled: 120, Queue: 2705, Leaves: 46
+Crawling: prep-instructions/italian-toast/index.html
+Crawling: prep-instructions/italian-toast/index.html
+Pages crawled: 121, Queue: 2706, Leaves: 46
+Crawling: misc-instructions/pasta/index.html
+Crawling: misc-instructions/pasta/index.html
+Pages crawled: 122, Queue: 2705, Leaves: 46
+Crawling: prep-instructions/peel-seed-fresh-tomatoes/index.html
+Crawling: prep-instructions/peel-seed-fresh-tomatoes/index.html
+Pages crawled: 123, Queue: 2704, Leaves: 46
+Crawling: prep-instructions/roux/index.html
+Crawling: prep-instructions/roux/index.html
+Pages crawled: 124, Queue: 2701, Leaves: 46
+Crawling: prep-instructions/simple-marinara-sauce/index.html
+Crawling: prep-instructions/simple-marinara-sauce/index.html
+Pages crawled: 125, Queue: 2701, Leaves: 46
+Crawling: prep-instructions/slicing-cherry-tomatoes/index.html
+Crawling: prep-instructions/slicing-cherry-tomatoes/index.html
+Pages crawled: 126, Queue: 2700, Leaves: 46
+Crawling: prep-instructions/slow-simmer/index.html
+Crawling: prep-instructions/slow-simmer/index.html
+Pages crawled: 127, Queue: 2699, Leaves: 46
+Crawling: prep-instructions/steak-internal-temperatures/index.html
+Crawling: prep-instructions/steak-internal-temperatures/index.html
+Pages crawled: 128, Queue: 2699, Leaves: 46
+Crawling: misc-instructions/sweat/index.html
+Crawling: misc-instructions/sweat/index.html
+Pages crawled: 129, Queue: 2698, Leaves: 46
+Crawling: prep-instructions/sweat/index.html
+Crawling: prep-instructions/sweat/index.html
+Pages crawled: 130, Queue: 2698, Leaves: 46
+Crawling: prep-instructions/toasted-breadcrumbs/index.html
+Crawling: prep-instructions/toasted-breadcrumbs/index.html
+Pages crawled: 131, Queue: 2698, Leaves: 46
+Crawling: prep-instructions/trinity/index.html
+Crawling: prep-instructions/trinity/index.html
+Pages crawled: 132, Queue: 2697, Leaves: 46
+Crawling: 2022/12/a-new-york-christmas-story/index.html
+Crawling: 2022/12/a-new-york-christmas-story/index.html
+Pages crawled: 133, Queue: 2693, Leaves: 46
+Crawling: 2017/06/act-like-a-new-yorker/index.html
+Crawling: 2017/06/act-like-a-new-yorker/index.html
+Pages crawled: 134, Queue: 2703, Leaves: 46
+Crawling: 2016/06/anisette/index.html
+Crawling: 2016/06/anisette/index.html
+Pages crawled: 135, Queue: 2715, Leaves: 46
+Crawling: 2016/11/an-italian-americans-thanksgiving/index.html
+Crawling: 2016/11/an-italian-americans-thanksgiving/index.html
+Pages crawled: 136, Queue: 2726, Leaves: 46
+Crawling: 2017/09/bagels/index.html
+Crawling: 2017/09/bagels/index.html
+Pages crawled: 137, Queue: 2729, Leaves: 46
+Crawling: 2014/11/chicken-hearts-and-mushrooms/index.html
+Crawling: 2014/11/chicken-hearts-and-mushrooms/index.html
+Pages crawled: 138, Queue: 2737, Leaves: 46
+Crawling: 2015/11/caffe-roma/index.html
+Crawling: 2015/11/caffe-roma/index.html
+Pages crawled: 139, Queue: 2747, Leaves: 46
+Crawling: 2015/01/espresso/index.html
+Crawling: 2015/01/espresso/index.html
+Pages crawled: 140, Queue: 2754, Leaves: 46
+Crawling: 2018/01/hanging-out-on-a-sunday-afternoon/index.html
+Crawling: 2018/01/hanging-out-on-a-sunday-afternoon/index.html
+Pages crawled: 141, Queue: 2763, Leaves: 46
+Crawling: 2018/03/excerpt-from-la-cosa-nostra/index.html
+Crawling: 2018/03/excerpt-from-la-cosa-nostra/index.html
+Pages crawled: 142, Queue: 2780, Leaves: 46
+Crawling: 2018/06/excerpt-from-la-cucina-povera/index.html
+Crawling: 2018/06/excerpt-from-la-cucina-povera/index.html
+Pages crawled: 143, Queue: 2792, Leaves: 46
+Crawling: 2019/04/excerpt-from-memories-of-the-fishermans-wharf/index.html
+Crawling: 2019/04/excerpt-from-memories-of-the-fishermans-wharf/index.html
+Pages crawled: 144, Queue: 2806, Leaves: 46
+Crawling: 2018/07/excerpt-from-the-elusive-ramos-gin-fizz/index.html
+Crawling: 2018/07/excerpt-from-the-elusive-ramos-gin-fizz/index.html
+Pages crawled: 145, Queue: 2815, Leaves: 46
+Crawling: 2019/02/excerpt-the-mississippi-coast-2005/index.html
+Crawling: 2019/02/excerpt-the-mississippi-coast-2005/index.html
+Pages crawled: 146, Queue: 2825, Leaves: 46
+Crawling: 2018/08/filomenas-fettuccine-with-alici-and-tomato-sauce/index.html
+Crawling: 2018/08/filomenas-fettuccine-with-alici-and-tomato-sauce/index.html
+Pages crawled: 147, Queue: 2832, Leaves: 46
+Crawling: 2018/09/italian-food/index.html
+Crawling: 2018/09/italian-food/index.html
+Pages crawled: 148, Queue: 2846, Leaves: 46
+Crawling: 2015/10/katzs-delicatessen/index.html
+Crawling: 2015/10/katzs-delicatessen/index.html
+Pages crawled: 149, Queue: 2854, Leaves: 46
+Crawling: 2017/12/latkes-for-chanukah/index.html
+Crawling: 2017/12/latkes-for-chanukah/index.html
+Pages crawled: 150, Queue: 2868, Leaves: 46
+Crawling: 2014/12/new-york-city-diners/index.html
+Crawling: 2014/12/new-york-city-diners/index.html
+Pages crawled: 151, Queue: 2873, Leaves: 46
+Crawling: 2017/05/nick-and-nora-glasses/index.html
+Crawling: 2017/05/nick-and-nora-glasses/index.html
+Pages crawled: 152, Queue: 2881, Leaves: 46
+Crawling: 2017/10/talking-about-the-movies/index.html
+Crawling: 2017/10/talking-about-the-movies/index.html
+Pages crawled: 153, Queue: 2896, Leaves: 46
+Crawling: 2017/07/ham-sandwich/index.html
+Crawling: 2017/07/ham-sandwich/index.html
+Pages crawled: 154, Queue: 2905, Leaves: 46
+Crawling: 2018/10/the-village-of-terranova/index.html
+Crawling: 2018/10/the-village-of-terranova/index.html
+Pages crawled: 155, Queue: 2919, Leaves: 46
+Crawling: wp-content/uploads/2015/10/lunch-is-ready.jpg
+Crawling: wp-content/uploads/2015/10/lunch-is-ready.jpg
+LEAF NODE #47: wp-content/uploads/2015/10/lunch-is-ready.jpg
+Pages crawled: 156, Queue: 2900, Leaves: 47
+Crawling: wp-content/uploads/2015/10/Portobello-Road-London.jpg
+Crawling: wp-content/uploads/2015/10/Portobello-Road-London.jpg
+LEAF NODE #48: wp-content/uploads/2015/10/Portobello-Road-London.jpg
+Pages crawled: 157, Queue: 2899, Leaves: 48
+Crawling: wp-content/uploads/2015/09/Still-Life-Fish-Wm.-Merritt-Chase.jpg
+Crawling: wp-content/uploads/2015/09/Still-Life-Fish-Wm.-Merritt-Chase.jpg
+LEAF NODE #49: wp-content/uploads/2015/09/Still-Life-Fish-Wm.-Merritt-Chase.jpg
+Pages crawled: 158, Queue: 2898, Leaves: 49
+Crawling: wp-content/uploads/2015/09/LowerEastSide-Appetizing.jpg
+Crawling: wp-content/uploads/2015/09/LowerEastSide-Appetizing.jpg
+LEAF NODE #50: wp-content/uploads/2015/09/LowerEastSide-Appetizing.jpg
+Pages crawled: 159, Queue: 2897, Leaves: 50
+------------------------------------------------------------
+SCAN COMPLETE
+Total pages crawled: 159
+Leaf nodes found: 50
+
+============================================================
+LEAF NODES SUMMARY:
+============================================================
+ 1. wp-content/uploads/2023/11/x-20231101150514.jpg
+ 2. wp-content/uploads/2023/11/x-20231101165901-scaled.jpg
+ 3. wp-content/uploads/2023/11/Untitled.jpg
+ 4. wp-content/uploads/2023/11/x-20231101172224-scaled.jpg
+ 5. wp-content/uploads/2023/04/Howie-at-Doms.jpg
+ 6. wp-content/uploads/2023/04/thumbnail.jpg
+ 7. wp-content/uploads/2024/04/Untitl876ed-1.jpg
+ 8. wp-content/uploads/2023/04/fghj.jpg
+ 9. tag/steak-and-onions/index.html
+10. wp-content/uploads/2023/10/x-thumbnail-5.jpg
+11. wp-content/uploads/2023/10/x-20230802182815-scaled.jpg
+12. wp-content/uploads/2023/10/x-Untitled.jpg
+13. wp-content/uploads/2023/10/aUntitled.jpg
+14. tag/ground-beef/index.html
+15. wp-content/uploads/2023/10/20230912172620.jpg
+16. wp-content/uploads/2023/10/20230912173730-scaled.jpg
+17. wp-content/uploads/2023/10/20230912175426-scaled.jpg
+18. wp-content/uploads/2023/10/20230912182531-scaled.jpg
+19. wp-content/uploads/2023/09/x-20230820130003-scaled.jpg
+20. wp-content/uploads/2023/09/x--scaled.jpg
+21. wp-content/uploads/2023/09/x-20230821184402-scaled.jpg
+22. wp-content/uploads/2023/09/x-20230821190307-scaled.jpg
+23. tag/vegetables/index.html
+24. wp-content/uploads/2023/07/thumbnail-1.jpg
+25. wp-content/uploads/2023/07/thumbnail-1-1.jpg
+26. wp-content/uploads/2023/07/x-20230612142530-scaled.jpg
+27. wp-content/uploads/2023/07/x--scaled.jpg
+28. wp-content/uploads/2023/07/x-20230612184442-scaled.jpg
+29. wp-content/uploads/2023/07/x-20230612191931-scaled.jpg
+30. wp-content/uploads/2023/06/20230525140934-scaled.jpg
+31. wp-content/uploads/2023/06/20230526132747-scaled.jpg
+32. wp-content/uploads/2023/06/a20230525134407-scaled.jpg
+33. wp-content/uploads/2023/03/20230324131306.jpg
+34. wp-content/uploads/2023/03/x20230325174725-scaled.jpg
+35. wp-content/uploads/2023/03/xnnnnnn-scaled.jpg
+36. wp-content/uploads/2023/03/x20230319115527.jpg
+37. wp-content/uploads/2023/03/Untitled.jpg
+38. wp-content/uploads/2023/03/x20230319181308-scaled.jpg
+39. wp-content/uploads/2023/03/x20230319192918-scaled.jpg
+40. wp-content/uploads/2014/08/Steak-e1412188333311.jpg
+41. wp-content/uploads/2014/10/2014-10-1611.06.16.jpg
+42. wp-content/uploads/2017/08/Doc3_Page_2aa.jpg
+43. wp-content/uploads/2022/06/y-20220622191243-scaled.jpg
+44. wp-content/uploads/2020/09/xxxtitled.png
+45. prep-instructions/dredge-in-flour/index.html
+46. wp-content/uploads/2021/10/grated-cheese_edited-1-286x300-1.jpg
+47. wp-content/uploads/2015/10/lunch-is-ready.jpg
+48. wp-content/uploads/2015/10/Portobello-Road-London.jpg
+49. wp-content/uploads/2015/09/Still-Life-Fish-Wm.-Merritt-Chase.jpg
+50. wp-content/uploads/2015/09/LowerEastSide-Appetizing.jpg

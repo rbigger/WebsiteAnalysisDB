@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+beautifulsoup4
+Pillow
+psycopg2-binary
+PyYAML

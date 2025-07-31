@@ -1,0 +1,99 @@
+# SiteScanner Environment Configuration
+# Project-specific dependencies and configuration
+
+name: "sitescanner"
+version: "1.0.0"
+
+# Extend shared environment stacks
+extends:
+  - "../../environments/python-web-stack.yml"
+  - "../../environments/development-stack.yml"
+
+# Project-specific information
+project:
+  name: "SiteScanner"
+  description: "Website structure analysis and optimization tool"
+  repository: "https://github.com/yourusername/SiteScanner"
+  
+# Database configuration
+database:
+  # Primary database (shared across projects)
+  primary:
+    type: "postgresql"
+    name: "site_analysis"
+    host: "localhost"
+    port: 5432
+    user: "dev_user"
+    url: "postgresql://dev_user@localhost:5432/site_analysis"
+    description: "Shared website analysis database"
+    
+  # Project-specific databases
+  development:
+    name: "sitescanner_dev"
+    url: "postgresql://dev_user@localhost:5432/sitescanner_dev"
+    description: "SiteScanner development database"
+    
+  testing:
+    name: "sitescanner_test" 
+    url: "postgresql://dev_user@localhost:5432/sitescanner_test"
+    description: "SiteScanner testing database"
+    
+  # Legacy database (backup reference)
+  legacy:
+    type: "sqlite"
+    path: "/Users/rogerbigger/ForFriends/site_analysis.db"
+    description: "Original SQLite database (backup)"
+  
+# Project-specific Python packages (in addition to python-web-stack.yml)
+python:
+  additional_packages:
+    # Add any SiteScanner-specific packages here
+    # Example: 
+    # - name: "specific-package"
+    #   version: ">=1.0.0"
+    #   description: "Project-specific functionality"
+
+# External data sources
+data_sources:
+  target_site: "/Users/rogerbigger/ForFriends/robertiulo_download/robertiulo.com/"
+  legacy_database: "/Users/rogerbigger/ForFriends/site_analysis.db"  # SQLite backup
+  
+# Development settings
+development:
+  debug: true
+  log_level: "INFO"
+  max_workers: 4
+  
+# Testing configuration
+testing:
+  test_database: "site_analysis_test"
+  sample_data_size: 1000
+  
+# Analysis configuration
+analysis:
+  max_pages: 50000  # Limit for large site analysis
+  max_depth: 10     # Maximum crawl depth
+  timeout: 30       # Page load timeout in seconds
+  
+# Output configuration
+output:
+  formats: ["json", "csv", "html"]
+  local_directory: "backend/test-results/"
+  shared_exports: "/Users/rogerbigger/dev/data/exports/"
+  shared_backups: "/Users/rogerbigger/dev/data/backups/"
+  
+# Environment variables (reference only - actual values in .env)
+environment_variables:
+  - "SITE_ANALYSIS_DB_URL"      # Primary shared database
+  - "SITESCANNER_DEV_DB_URL"    # Development database
+  - "SITESCANNER_TEST_DB_URL"   # Testing database
+  - "SHARED_DATA_DIR"           # Shared data directory
+  - "SELENIUM_GRID_URL"         # For future distributed crawling
+  - "LOG_LEVEL"
+  - "DEBUG"
+
+notes:
+  - "This project analyzes HTTrack-downloaded websites"
+  - "Target dataset: ~19,854 files across 4,634 directories"
+  - "Migration from SQLite to PostgreSQL in progress"
+  - "See CLAUDE.md and .claude/ directory for development context"
