@@ -1,4 +1,4 @@
-# SiteScanner - Website Structure Analysis Platform
+# SiteScanner-App - Website Structure Analysis Platform
 
 A comprehensive multi-language platform for analyzing static websites, identifying optimization opportunities, and managing content cleanup.
 
@@ -15,7 +15,7 @@ This monorepo contains all components of the SiteScanner platform:
 ## 📁 Project Structure
 
 ```
-SiteScanner/
+SiteScanner-App/
 ├── backend/          # Python crawler & analysis engine
 ├── database/         # PostgreSQL schema & project-specific elements
 ├── rust-analyzer/    # Performance-critical processing
@@ -40,8 +40,8 @@ cd /Users/rogerbigger/dev/environments
 ./scripts/install-dev-stack.sh
 
 # Clone the repository
-git clone https://github.com/yourusername/SiteScanner.git
-cd SiteScanner
+git clone https://github.com/yourusername/SiteScanner-App.git
+cd SiteScanner-App
 
 # Set up Python environment
 cd backend
