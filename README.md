@@ -46,7 +46,7 @@ WebsiteAnalysisDB/
 
 ```bash
 # Clone the repository
-git clone https://github.com/[username]/WebsiteAnalysisDB.git
+git clone https://github.com/rbigger/WebsiteAnalysisDB.git
 cd WebsiteAnalysisDB
 
 # Install shared databases (if not already done)
@@ -68,13 +68,16 @@ psql -d site_analysis -c "\dv"  # List views
 ### Quick Test with Sample Data
 
 ```bash
-# Set up Python environment for utilities
+# Set up Python environment for utilities (if needed)
 python3 -m venv .venv
 source .venv/bin/activate
 pip install psycopg2-binary pyyaml
 
-# Generate sample data
-cd utilities
+# Note: utilities are included in SiteScanner-App repository
+# This is a schema-only repository for reusability
+# For sample data generation, use:
+git clone https://github.com/rbigger/SiteScanner-App.git ../SiteScanner-App
+cd ../SiteScanner-App/backend/scripts
 python generate_sample_data.py
 
 # Verify data population
@@ -153,8 +156,12 @@ orphaned_images = cursor.fetchall()
 ### Data Population
 
 ```bash
+# Note: Data population utilities are in SiteScanner-App
+# Clone SiteScanner-App for full functionality:
+git clone https://github.com/rbigger/SiteScanner-App.git
+
 # From crawler output file
-cd utilities
+cd SiteScanner-App/backend/scripts
 python populate_from_crawler.py /path/to/crawler_output.txt
 
 # Generate test data for development
@@ -203,8 +210,8 @@ SELECT * FROM v_http_status_summary;
 
 This database schema is designed to work with:
 
-- **[SiteScanner](https://github.com/[username]/SiteScanner)** - Website analysis application
-- **[dev-environments](https://github.com/[username]/dev-environments)** - Shared development setup
+- **[SiteScanner-App](https://github.com/rbigger/SiteScanner-App)** - Website analysis application
+- **[dev-environments](https://github.com/rbigger/dev-environments-)** - Shared development setup
 - Any website crawler or analysis tool that follows the schema
 
 ## 📖 Documentation
