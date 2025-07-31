@@ -36,11 +36,12 @@ SiteScanner-App/
 ### Setup
 ```bash
 # Install shared development environment (first time only)
-cd /Users/rogerbigger/dev/environments
+git clone https://github.com/rbigger/dev-environments-.git
+cd dev-environments
 ./scripts/install-dev-stack.sh
 
 # Clone the repository
-git clone https://github.com/yourusername/SiteScanner-App.git
+git clone https://github.com/rbigger/SiteScanner-App.git
 cd SiteScanner-App
 
 # Set up Python environment
@@ -53,8 +54,45 @@ pip install -r requirements.txt
 createdb sitescanner_dev
 createdb sitescanner_test
 
-# Initialize schema (shared schema is installed via dev-environments)
-psql -d sitescanner_dev -f database/schema/create_tables.sql
+# Initialize database schema
+# First install shared schema from WebsiteAnalysisDB
+git clone https://github.com/rbigger/WebsiteAnalysisDB.git ../WebsiteAnalysisDB
+psql -d site_analysis -f ../WebsiteAnalysisDB/schema/create_tables.sql
+
+# Install analytical views
+find ../WebsiteAnalysisDB/views/ -name "*.sql" -exec psql -d site_analysis -f {} \;
+
+# Set up project-specific database configuration
+psql -d sitescanner_dev -f database/setup.sql
+```
+
+## 🎯 Usage Examples
+
+### Run Website Analysis
+```bash
+# Generate sample data for testing
+cd backend/scripts
+python generate_sample_data.py
+
+# Run basic website scan
+cd ../src
+python main.py --url https://example.com --output-dir ../test-results
+
+# Populate database from crawler output
+cd ../scripts
+python populate_from_crawler.py ../test-results/scan_output_*.txt
+```
+
+### Database Queries
+```bash
+# View orphaned images
+psql -d site_analysis -c "SELECT * FROM v_orphaned_images_detail LIMIT 10;"
+
+# Check navigation structure
+psql -d site_analysis -c "SELECT * FROM v_site_structure_summary;"
+
+# Find broken links
+psql -d site_analysis -c "SELECT * FROM v_broken_links_detail WHERE http_status >= 400;"
 ```
 
 ### Component Development
